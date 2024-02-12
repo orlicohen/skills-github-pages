@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Creative Embedded Systems - Spring 2024 
 ---
 
